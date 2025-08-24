@@ -1,5 +1,4 @@
 #include <stdio.h>
-void cal15(int n);
 void cal15(int n){
     if (n>15){
         return;
